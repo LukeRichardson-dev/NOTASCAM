@@ -1,0 +1,17 @@
+@font-face {
+    font-family: CMU; 
+    src: url('fonts/cmunorm.ttf'); 
+} 
+
+* {
+    font-family: CMU;
+    font-size: 20pt;
+    background-color: rgb(0, 0, 0);
+    color: #00FF00;
+}
+
+div {
+    width: 99%;
+    text-align: center;
+    padding: 23% 0;
+}
